@@ -1,1 +1,2 @@
 Chatcord readme
+hactoberfest - accepted
